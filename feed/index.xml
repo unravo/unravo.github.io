@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>Unravo : Business Research Unravelled</title>
+	<title>Unravo : Business Research Unraveled</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Business Research Unravelled</description>
+	<description>Business Research Unraveled</description>
 	<lastBuildDate></lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2024/07/cropped-Unravo-Logo-32x32.png</url>
-	<title>Unravo : Business Research Unravelled</title>
+	<title>Unravo : Business Research Unraveled</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
